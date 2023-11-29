@@ -1,12 +1,7 @@
-# HACKTIV8 Milestone Project Phase 0 
-## Full Time Data Science
-
 Name: Fernaldy Aristo Wirjowerdojo
 
-Batch: HCK-009
-
 ## Project Information
-This project is the final output of Phase 0 in the Full Time Data Science Programme from Hacktiv8.
+This project is part of Hacktiv8's Challenge.
 
 ## Objective
 This programme was created to perform classification on the different jellyfish types:
